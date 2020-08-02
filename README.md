@@ -1,6 +1,6 @@
 ### Hi, I'm Sandra 👋
 
-I'm Software Quality Qontrol Engineer , interested in Testing .
+I'm Software Quality Control Engineer , interested in Testing .
 
 - 🌱 I’m currently learning Test Automation 
 - 💬 Ask me about Software Testing .
