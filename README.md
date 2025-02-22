@@ -1,8 +1,7 @@
 ### Hi, I'm Sandra 👋
 
-I'm Software Quality Control Engineer , interested in Testing .
+I'm Senior software Quality Control Engineer , interested in Testing .
 
-- 🌱 I’m currently learning Test Automation 
 - 💬 Ask me about Software Testing .
 - 📫 How to reach me: sandrasamy17@gmail.com .
-- ⚡ Fun fact: food can make me happy .
+- ⚡ Fun fact: food and Gym can make me happy .
